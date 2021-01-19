@@ -32,7 +32,7 @@ Github : https://github.com/HyoyeolJo
   + Git/Gerrit
     + Source Code 관리
 
-## 개인프로젝트
+## 개인 프로젝트
 ### GLSurfaceView을 이용한 Rendering 방식 변경
 + 진행기간
   + 2017.01 - 2017.02
@@ -73,7 +73,9 @@ Github : https://github.com/HyoyeolJo
 + 성과
   + 최신 ADT 적용 가능
   + Gradle을 이용한 빌드 자동화 시스템 도입
-## 팀프로젝트
+  
+## 팀 프로젝트
+
   ### Atlan 5 CL Navigation 개발
   ### Atlan 5 AndroidAuto Navigation 개발
   ### Atlan 5 C-ITS Navigation 개발
@@ -84,10 +86,16 @@ Github : https://github.com/HyoyeolJo
   ### Atlan 5 Truck Navigation 개발
   ### Atlan 5 Navigation 개발
   
-## 기타프로젝트
+## 기타 프로젝트
+
   ### Standard Coding Rule 적용
-## 대학프로젝트
+  
+## 대학 프로젝트
+
   ### Galaxy S6 스마트 커버 앱 개발
   ### Android LMK Memory Swap 개선
   ### 웹 컴파일러 제작
   ### 바야바 엔진을 이용한 도둑잡기 게임
+  
+## 학력사항
+  ### 세종대학교 컴퓨터공학과 졸업
