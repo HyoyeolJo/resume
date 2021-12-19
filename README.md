@@ -78,7 +78,7 @@ Github : https://github.com/HyoyeolJo
 
 ### Atlan 5 CL Navigation 개발
 + 진행기간
-    + 2019.10 - 진행중
+    + 2019.10 - 2022.05
 + 주요내용
     + 해외 기업 Navigation SW 개발
 + 역할
@@ -194,21 +194,134 @@ Github : https://github.com/HyoyeolJo
     + MirrorLink 단말기 Navigation 탑재
 
 ### Atlan 5 Taba Navigation 개발
++ 진행기간
+    + 2018.03 - 2018.04
++ 주요내용
+    + 제주 전용 Navigation 개발
+        + 데이터 최적화 작업 및 서비스 DB 생성
+            + 기존 아틀란 V5 패키지 사이즈 : 약 9.60GB
+            + 최종 목표 사이즈 : 약 500MB 이내
+            + 제주도 지역 전용으로 데이터 생성
+            + 배경 DB 단순화
+            + 검색 DB 최적화
+            + 모식도 데이터를 제주도용 버전으로 분리 
+            + 기능 제거를 통한 데이터 최적화 검토 (지형모드, 상세건물 보기, 라이브 일부 기능)
+        + 런처 개발
+            + 압축 데이터 해제 및 기본 기능
+            + Self 업데이트 기능
+        + 동영상 플레이어 개발
+            + 영상 재생 기능
+
++ 역할
+    + Android 기반의 Atlan Launcher App 개발
+        + Self 업데이트 기능 구현
+        + 동영상 플레이어 실행
++ 개발환경
+    + OS : Android
+    + IDE : AndroidStudio
++ 개발언어(또는 Library)
+    + Java
+    + XML
+
 ### Atlan 5 Truck 추천 POI 기능 개발
+[Atlan 5 Truck](http://www.atlan.co.kr/products/pnd/atlanTruck.do)
++ 진행기간
+    + 2018.03 - 2018.06
++ 주요내용
+    + LIVE 화물차 전용 휴게소 추천 서비스
+    + LIVE 화물차 서비스센터 추천 서비스
++ 역할
+    + OpenGL 2.0 기반의 Navigation UI Engine을 활용한 UI & Client 개발
+        + 화물차 서비스 센터 검색
+        + 화물차 전용 휴게소 검색
+        + 화물차 LIVE 화면 표시
++ 개발환경
+    + OS : Android, WinCE
+    + IDE : Eclipse, Visual Studio 2008
++ 개발언어(또는 Library)
+    + C/C++
+    + Java
+    + JNI
+    + XML
+
 ### Atlan 5 EV Navigation 개발
+[Atlan 5 EV](http://www.atlan.co.kr/products/pnd/atlan5EV.do)
++ 진행기간
+    + 2017.10 - 2017.12
++ 주요내용
+    + 전기차 전용 내비게이션 SW 개발
++ 역할
+    + OpenGL 2.0 기반의 Navigation UI Engine을 활용한 UI & Client 개발
+        + 지도위 전기차 충전소
+        + 전기차충전소 검색
++ 개발환경
+    + OS : Android, WinCE
+    + IDE : Android Studio, Visual Studio 2008
++ 개발언어(또는 Library)
+    + C/C++
+    + Java
+    + JNI
+    + XML
+
 ### Atlan 5 Truck Navigation 개발
+[Atlan 5 Truck](http://www.atlan.co.kr/products/pnd/atlanTruck.do)
++ 진행기간
+    + 2017.08 - 2017.10
++ 주요내용
+    + 화물차/버스 전용 내비게이션 SW 개발
++ 역할
+    + OpenGL 2.0 기반의 Navigation UI Engine을 활용한 UI & Client 개발
+        + 화물차 정보 설정
+        + 화물차 서비스센터 검색
+        + 경로탐색
+        + 화물차 높이, 중량제한 안내
++ 개발환경
+    + OS : Android, WinCE
+    + IDE : Android Studio, Visual Studio 2008
++ 개발언어(또는 Library)
+    + C/C++
+    + Java
+    + JNI
+    + XML
+
 ### Atlan 5 Navigation 개발
-  
+[Atlan 5](http://www.atlan.co.kr/products/pnd/atlan5.do)
++ 진행기간
+    + 2016.06 - 2017.06
++ 주요내용
+    + 온/ 오프라인 POI 검색, 경로 탐색을 제공하는 내비게이션 SW 개발
+    + 최초로 수행한 대규모 프로젝트
++ 역할
+    + OpenGL 2.0 기반의 Navigation UI Engine을 활용한 UI & Client 개발
+        + 주행 서비스
+        + LIVE 추천 서비스
+        + VMS 서비스
+        + 날씨 안내 서비스
++ 개발환경
+    + OS : Android, WinCE
+    + IDE : Android Studio, Visual Studio 2008
++ 개발언어(또는 Library)
+    + C/C++
+    + Java
+    + JNI
+    + XML
+
 ## 기타 프로젝트
 
 ### Standard Coding Rule 적용
-  
-## 대학 프로젝트
-
-### Galaxy S6 스마트 커버 앱 개발
-### Android LMK Memory Swap 개선
-### 웹 컴파일러 제작
-### 바야바 엔진을 이용한 도둑잡기 게임
++ 진행기간
+    + 2019.06 - 2022.05
++ 주요내용
+    + 고객사가 요구하는 Standard Coding Rule 적용
++ 역할
+    + 차량 내비게이션 Project 정적 분석
+        + LDRA 이용한 C++ 코드 분석 및 수정
+        + LDRA에서 지원하지 않는 규칙에 대한 Code Review 진행 및 Check List 작성
++ 적용규칙
+    + MISRA C++ 2008
+    + CERT C++ 20168
++ 개발툴
+    + LDRA
   
 ## 학력사항
-### 세종대학교 컴퓨터공학과 졸업
+### 세종대학교 컴퓨터공학과 졸업 (2015.08)
