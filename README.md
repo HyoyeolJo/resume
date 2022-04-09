@@ -78,7 +78,7 @@ Github : https://github.com/HyoyeolJo
 
 ### Atlan 5 CL Navigation 개발
 + 진행기간
-    + 2019.10 - 2022.02
+    + 2019.10 - 2022.03
 + 주요내용
     + 해외 기업 Navigation SW 개발
 + 역할
