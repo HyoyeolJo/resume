@@ -14,7 +14,7 @@ Github : https://github.com/HyoyeolJo
 ## 경력
 
 [맵퍼스](http://www.mappers.kr)
-- 전임연구원 - 2016.01 ~ 재직중
+- 전임연구원 - 2016.01 ~ 재직중 (총 6년 6개월)
 
 ## 보유기술
 + C/C++
@@ -78,7 +78,7 @@ Github : https://github.com/HyoyeolJo
 
 ### Atlan 5 CL Navigation 개발
 + 진행기간
-    + 2019.10 - 2022.05
+    + 2019.10 - 2022.03 (22년 6월 Launching 예정)
 + 주요내용
     + 해외 기업 Navigation SW 개발
 + 역할
@@ -310,7 +310,7 @@ Github : https://github.com/HyoyeolJo
 
 ### Standard Coding Rule 적용
 + 진행기간
-    + 2019.06 - 2022.05
+    + 2019.06 - 2022.03
 + 주요내용
     + 고객사가 요구하는 Standard Coding Rule 적용
 + 역할
