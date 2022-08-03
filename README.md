@@ -14,7 +14,7 @@ Github : https://github.com/HyoyeolJo
 ## 경력
 
 [맵퍼스](http://www.mappers.kr)
-- 전임연구원 - 2016.01 ~ 재직중 (총 6년 6개월)
+- 전임연구원 - 2016.01 ~ 재직중 (총 6년 7개월)
 
 ## 보유기술
 + C/C++
@@ -78,16 +78,19 @@ Github : https://github.com/HyoyeolJo
 
 ### Atlan 5 CL Navigation 개발
 + 진행기간
-    + 2019.10 - 2022.03 (22년 6월 Launching)
+    + 2019.10 - 2022.05 (22년 6월 Launching)
 + 주요내용
     + 해외 기업 Navigation SW 개발
 + 역할
     + OpenGL 2.0 기반의 Navigation UI Engine을 활용한 UI 개발
         + 내비게이션 주행 화면 안내 서비스
-        + USB Upgrade 진행상황 표출
-        + OTA Update 진행상황 표출
+        + USB Upgrade UI 상태 표시
+        + OTA Update UI 상태 표시
         + 사용자 설정 데이터 AES 256 암호화 저장 기능
         + 온라인 SDI 업데이트 기능
+        + LDRA 기반의 Static Analysis
+        + MISRA Compliance 준수
+        + Map Matching 개발 (Online MM, Offline MM, Hybrid MM, History MM, 3D MM)
 + 개발환경
     + OS : Linux, WinCE
     + IDE : Eclipse, Visual Studio 2008
