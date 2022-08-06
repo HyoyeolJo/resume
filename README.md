@@ -14,7 +14,7 @@ Github : https://github.com/HyoyeolJo
 ## 경력
 
 [맵퍼스](http://www.mappers.kr)
-- 연구원 - 2016.01 ~ 재직중 (총 6년 7개월)
+- 연구원 - 2016.01 ~ 재직중 (총 6년 8개월)
 
 ## 보유기술
 + C/C++
