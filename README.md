@@ -16,21 +16,33 @@ Github : https://github.com/HyoyeolJo
 [맵퍼스](http://www.mappers.kr)
 - 연구원 - 2016.01 ~ 재직중 (총 6년 8개월)
 
+## 직무
++ 연구 및 개발
+  + 위치기반서비스 (GPS Map Matching)
+  + UI 서비스
++ 관리
+  + MISRA Compliance
+  + Static Analysis
+  + SW 빌드 및 배포
+
 ## 보유기술
-+ C/C++
-  + Native Navigation UI & Scenario 구현
-+ Java
-  + Android Framwork에서 Native App을 동작하기 위한 MainActivity 구현
-+ XML
-  + XML 기반의 Navigation UI Tool을 이용한 UI Script 구현
++ 언어
+  + C/C++ (중)
+  + Java (하)
++ OS
+  + Windows (중)
+  + Android (중)
+  + Linux (중)
++ Tool
+  + Visual Studio (중)
+  + Android Studio (하)
+  + Eclipse (하)
+  + LDRA (중)
 + 기타
-  + JIRA
-    + Project Issue 처리
-  + Confluence
-    + WBS 기반의 일정 관리
-    + 산출물 업로드
-  + Git/Gerrit
-    + Source Code 관리
+  + JIRA (중)
+  + Confluence (중)
+  + Git/Gerrit (중)
+  + Zeplin (하)
 
 ## 개인 프로젝트
 ### GLSurfaceView을 이용한 Rendering 방식 변경
@@ -311,18 +323,18 @@ Github : https://github.com/HyoyeolJo
 
 ## 기타 프로젝트
 
-### Standard Coding Rule 적용
+### Standard Coding Rules 적용
 + 진행기간
     + 2019.06 - 2022.03
 + 주요내용
-    + 고객사가 요구하는 Standard Coding Rule 적용
+    + MISRA, CERT C++ Standard Coding Rules 적용
 + 역할
-    + 차량 내비게이션 Project 정적 분석
+    + Project Code 정적 분석
         + LDRA 이용한 C++ 코드 분석 및 수정
-        + LDRA에서 지원하지 않는 규칙에 대한 Code Review 진행 및 Check List 작성
+        + LDRA에서 지원하지 않는 규칙에 대한 Code Review 진행
 + 적용규칙
     + MISRA C++ 2008
-    + CERT C++ 20168
+    + CERT C++ 2016
 + 개발툴
     + LDRA
   
